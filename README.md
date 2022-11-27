@@ -23,7 +23,11 @@ kann die Befehle benutzen:
 
 <h1>2.Installation</h1>
 
-
+Zuerst der Discord. Dieser Braucht die Rolle 
+```
+Divera
+```
+Du musst diese auch besitzen sonst werden die Befehle nicht ausgeführt.
 
 ``` 
 sudo apt install jq unclutter cec-utils

@@ -1,7 +1,7 @@
 # Divera24-7-Discord-Bot
 Ein Discord bot welcher den Divera24/7 Monitor steuern kann über discord.
 
-![51021169](https://user-images.githubusercontent.com/51021169/204151101-443b70ff-2684-4c66-a841-b69dbe674528.png)
+![Screenshot 2022-11-27 193229](https://user-images.githubusercontent.com/51021169/204153239-351bbf2e-c816-47f9-b5b2-e8e3b0dca179.png)
 
 <h1>1.Was ist das?</h1>
 Dieser Discord Bot ersetzt die .divera_script.py Datei (https://github.com/Dustin1358/Raspberry-Pi-Divera-Monitor).
@@ -103,3 +103,4 @@ In der Datei gibst du ein:
 <h2>Das war die installation von Diveracord</2>
 Ich verweise nochmal auf https://github.com/Dustin1358/Raspberry-Pi-Divera-Monitor Der eigentlich Bot ist selbst
 entstanden. Von der Commands.sh wurde nur der Name verändert.
+
